@@ -1,0 +1,11 @@
+# Data Source name and address
+
+data_source: "./dataDir/gallery.db"
+
+#image store
+image_store_path: "./images/"
+
+#access tokens for dribble
+client_id: "7d56a2ff5e5f9f7dcafeac56c11b9dec4a622bc51406996dc73d7957c9f8101f"
+client_secret: "7d56a2ff5e5f9f7dcafeac56c11b9dec4a622bc51406996dc73d7957c9f8101f"
+client_access_token: "8ab70d45611a07883d6f0d1e65f062171f0c5f69b0aef4bdd1ab78aa48c216c0"
